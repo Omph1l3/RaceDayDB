@@ -281,17 +281,6 @@ View full commit history: [GitHub Commits](https://github.com/yourusername/RaceD
 
 ---
 
-## Assessment Information
-
-| Component | Marks |
-|-----------|-------|
-| **Part 1: System Planning and Database** | 100 |
-| **Part 2: RESTful API** | 100 |
-| **Part 3: MVC Web Application** | 100 |
-| **Total** | 300 |
-
----
-
 ## Contact
 
 **Student Name**: [Otlotleng Mabiletsa]  
